@@ -1,12 +1,6 @@
 bias-dash
 ===============================
 
-version number: 0.0.1
-
-author: Dylan Dasgupta
-
-license: https://opensource.org/licenses/MIT
-
 
 Overview
 --------
