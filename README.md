@@ -15,9 +15,9 @@ Table of Contents
     
 Code/Installation
 ------------
+For installation and .py files visit this Github repo:
 
--[ ] Draft API Skeleton
--[ ] Implement data processing components
+https://github.com/ddasgupta4/bfw-dash
 
 Research, Innovation, and Scholarship Expo
 -------
