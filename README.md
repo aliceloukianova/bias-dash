@@ -29,10 +29,10 @@ https://github.com/visionjo/facerec-bias-bfw
 
 Research, Innovation, and Scholarship Expo
 -------
-- The research paper: <a href="master/A%20Fairness%20Tool%20for%20Bias%20in%20FR.pdf" target="_blank">
-- The poster: <a href="master/EECE2300-BIAS-RISE-2020-POSTER.pdf" target="_blank">
+- The research paper: https://github.com/aliceloukianova/bias-dash/blob/master/A%20Fairness%20Tool%20for%20Bias%20in%20FR.pdf
+- The poster: https://github.com/aliceloukianova/bias-dash/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf
 - The presentation: https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology
-- The recording of the presentation: <a href="master/Video%20Presentation.md" target="_blank">
+- The recording of the presentation: https://github.com/aliceloukianova/bias-dash/blob/master/Video%20Presentation.md
 
 Key Terms
 -------
