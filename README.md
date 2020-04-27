@@ -24,12 +24,15 @@ For installation and .py files visit this Github repo:
 
 https://github.com/ddasgupta4/bfw-dash
 
+For a closer look at the code and motivations visit this Github repo:
+https://github.com/visionjo/facerec-bias-bfw
+
 Research, Innovation, and Scholarship Expo
 -------
--[ ] Paper
--https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf Poster
--https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology Presentation
--https://web.microsoftstream.com/video/87c8980d-42f9-46be-ae2c-156f94eb2de8 Video of Presetation
+- The research paper: <a href="master/A%20Fairness%20Tool%20for%20Bias%20in%20FR.pdf" target="_blank">
+- The poster: <a href="master/EECE2300-BIAS-RISE-2020-POSTER.pdf" target="_blank">
+- The presentation: https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology
+- The recording of the presentation: <a href="master/Video%20Presentation.md" target="_blank">
 
 Key Terms
 -------
