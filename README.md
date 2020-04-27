@@ -26,10 +26,10 @@ https://github.com/ddasgupta4/bfw-dash
 
 Research, Innovation, and Scholarship Expo
 -------
-
 -[ ] Paper
--[ ] Presentation
--[ ] Video of Presetation
+-https://github.com/rohankrishnam/FaceRecBias/blob/master/EECE2300-BIAS-RISE-2020-POSTER.pdf Poster
+-https://prezi.com/js6eygtyapjl/rise-2020-bias-in-fr-technology Presentation
+-https://web.microsoftstream.com/video/87c8980d-42f9-46be-ae2c-156f94eb2de8 Video of Presetation
 
 Key Terms
 -------
@@ -39,11 +39,11 @@ Visualizations
 
 User Interface
 ------------
-![Dashboard](UI_Dash.png)
+![/Dashboard](Dashboard/UI_Dash.png)
 
-![Dashboard](UI_Dash_2.png)
+![Dashboard](Dashboard/UI_Dash_2.png)
 
-![Dashboard](UI_DASH_VID.gif)
+![Dashboard Video](Dashboard/UI_DASH_VID.gif)
 
 Skeleton
 ------------
