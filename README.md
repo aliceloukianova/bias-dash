@@ -11,8 +11,13 @@ The Balanced Faces in the Wild Dashboard is a tool for users to find bias in the
 
 Table of Contents
 --------------------
+- [Code/Installation](#code/installation)
+- [Research, Innovation, and Scholarship Expo](#RISE)
+- [Key Terms](#key terms)
+- [Visualizations](#visualizations)
+- [User Interface](#user interface)
+- [Skeleton](#skeleton)    
 
-    
 Code/Installation
 ------------
 For installation and .py files visit this Github repo:
