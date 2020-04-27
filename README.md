@@ -39,6 +39,11 @@ Visualizations
 
 User Interface
 ------------
+![Dashboard](UI_Dash.png)
+
+![Dashboard](UI_Dash_2.png)
+
+![Dashboard](UI_DASH_VID.gif)
 
 Skeleton
 ------------
