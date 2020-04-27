@@ -1,33 +1,41 @@
-bias-dash
+BFW Dashboard To Measure Bias
 ===============================
 
 
-Overview
+Description of Tool
 --------
-**Version 0.0.1**
+The Balanced Faces in the Wild Dashboard is a tool for users to find bias in their facial recognition models.
 
 
 
-Installation / Usage
+
+Table of Contents
 --------------------
 
     
-Todos
+Code/Installation
 ------------
 
 -[ ] Draft API Skeleton
 -[ ] Implement data processing components
 
-Experiments
+Research, Innovation, and Scholarship Expo
 -------
 
--[ ] Todo
+-[ ] Paper
+-[ ] Presentation
+-[ ] Video of Presetation
 
-Authors
+Key Terms
 -------
-**Dylan Dasgupta** - [Github](https://github.com/ddasgupta4)
 
-Project Organization
+Visualizations
+------------
+
+User Interface
+------------
+
+Skeleton
 ------------
 
     ├── LICENSE
