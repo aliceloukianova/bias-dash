@@ -13,9 +13,9 @@ Table of Contents
 --------------------
 - [Code/Installation](#code/installation)
 - [Research, Innovation, and Scholarship Expo](#RISE)
-- [Key Terms](#key terms)
+- [Key Terms](#keyterms)
 - [Visualizations](#visualizations)
-- [User Interface](#user interface)
+- [User Interface](#userinterface)
 - [Skeleton](#skeleton)    
 
 Code/Installation
