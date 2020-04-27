@@ -9,4 +9,4 @@ At NEU she has held many leadership positions serving as Design Lead for a proje
  Associate for the Center for Student Involvement, and Service Learning Mentor for the GE1501/1502 classes. 
 This year her leadership positions include being the Build Studio Hardware Engineer in the Generate Product Development Studio at NEU, as well as being VP for Recognition in NEU’s National Residence Hall Honorary chapter. She has also completed two co-ops at Nova Biomedical (2018) and at Desktop Metal (2019), she currently works as a Machine Shop Assistant in the Mechanical and Industrial Engineering Machine Shop at NEU in Boston, MA. Ms. Loukianova is a member of The American Society of Mechanical Engineers (ASME) as well as The Society of Women Engineers (SWE). She is a recipient of the President's Volunteer Service Award (2015,2016,2018) and has had data published in the NCBI GenBank® sequence database.
 
-![Image description](link-to-image)
+![Alice](https://github.com/aliceloukianova/intro-to-python/blob/master/Alice_Face_Pic.png)
