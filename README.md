@@ -36,9 +36,35 @@ Research, Innovation, and Scholarship Expo
 
 Key Terms
 -------
+True Positive/Sensitivity: Measures the proportion of actual positives that are correctly identified as such.
+
+True Negative/Specificity: Measures the proportion of actual negatives that are correctly identified as such.
+
+False Positive: When the prediction is positive and it’s false, this is a Type 1 Error. 
+
+False Negative: When the prediction is negative and it’s false, this is a Type 2 Error.
+
+SDM Curve: A violin plot showing a distribution of scores, using imposter and genuine scores against each other displaying the overlap between the two.
+
+DET Curve: Detection error trade off curve plots the false negative rate (FNR) as a function of the false positive rate (FPR). A tool to see the tradeoff between the sensitivity and specificity of the FR model.
+
+ROC Curve: Receiever operating characteristic curve plots the true positive rate (TPR) against the false positive rate (FPR). 
+
+Confusion Matrix: Measures recall, precision, specificity, and accuracy in a model.
+
+Recall: Measures how much was correctly predicted out of all the positive cases.
+
+Precision: Looks at how many cases are truly positive out of the positive ones predicted correctly.
+
+Specificity: Measures correctness of the true negative rate.
+
+Accuracy: Measures much was predicted correctly out of all the classes.
 
 Visualizations
 ------------
+All vizualizations featured in the Dashboard can be found here: https://github.com/aliceloukianova/bias-dash/tree/master/Visualizations
+
+This includes a Signal Detection Model , Detection Error Tradeoff (DET) Curves, Receiver Operating Characteristic (ROC) Curves, and a Confusion Matrix. 
 
 User Interface
 ------------
